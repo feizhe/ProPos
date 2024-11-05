@@ -1,4 +1,4 @@
-## Self-Supervised Learning for Deep Image Clustering
+## Self-Supervised Learning for Deep Image Clustering (Phenotype)
 
 This repo provides some baseline self-supervised learning frameworks for deep image clustering based on PyTorch
 including the official implementation of our [ProPos](https://arxiv.org/abs/2111.11821) accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence 2022**.
